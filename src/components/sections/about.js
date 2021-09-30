@@ -151,7 +151,7 @@ const About = () => {
 
             <p>
               Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
+              <a href="https://www.ccis.northeastern.edu">Pitzer College</a>, I joined the
               engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
               on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
