@@ -116,7 +116,7 @@ const StyledPic = styled.div`
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "ProfilePicture.png" }) {
+      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 500, traceSVG: { color: "#64ffda" }) {
             ...GatsbyImageSharpFluid_withWebp_tracedSVG
@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Figma', 'Sketch', 'Zeplin'];
+  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -151,7 +151,9 @@ const About = () => {
 
             <p>
               Shortly after graduating from{' '}
-              <a href="https://www.pitzer.edu/">Pitzer College</a>, I realized I needed to do something creative and impactful so I went back to school at <a href="https://generalassemb.ly/education/user-experience-design-immersive/san-francisco">General Assembly SF</a> where I learned the foundation and guiding principles of user centered design.
+              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
+              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
+              on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
