@@ -49,7 +49,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Jon Chao.</h2>;
-  const three = <h3 className="big-heading">I design things for the web.</h3>;
+  const three = <h3 className="big-heading">I design things for everyday people.</h3>;
   const four = (
     <p>
       I'm a UX/UI designer based in Oakland, CA specializing in designing exceptional websites, applications, and everything in between.
