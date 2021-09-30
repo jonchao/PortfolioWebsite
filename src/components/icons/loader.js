@@ -12,7 +12,7 @@ const IconLoader = () => (
       </g>
       <path
         stroke="currentColor"
-        strokeWidth="5"
+        strokeWidth="1"
         strokeLinecap="round"
         strokeLinejoin="round"
         d="M 50, 5
