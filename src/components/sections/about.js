@@ -151,12 +151,13 @@ const About = () => {
 
             <p>
               Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              <a href="https://www.pitzer.edu/">Pitzer College</a>, I chose to
+              pursue my interest in design by enrolling in
+              <a href="https://generalassemb.ly/education/user-experience-design-immersive/san-francisco"> General Assembly's</a> User Experience Design Immersive
+              where I learned the foundation of user centered design.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here are a few tools I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
