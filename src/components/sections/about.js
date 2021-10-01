@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'Test'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -152,9 +152,8 @@ const About = () => {
             <p>
               Shortly after graduating from{' '}
               <a href="https://www.pitzer.edu/">Pitzer College</a>, I chose to
-              pursue my interest in design by enrolling in
-              <a href="https://generalassemb.ly/education/user-experience-design-immersive/san-francisco"> General Assembly's</a> User Experience Design Immersive
-              where I learned the foundation of user centered design.
+              pursue my interest in design by enrolling in General Assembly's
+              <a href="https://generalassemb.ly/education/user-experience-design-immersive/san-francisco"> User Experience Design Immersive</a> where I learned the foundation of user centered design.
             </p>
 
             <p>Here are a few tools I've been working with recently:</p>
