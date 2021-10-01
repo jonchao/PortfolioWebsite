@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
+date: '2016-07-01'
+title: 'UX UI Design Manager'
 company: 'Acuity Brands'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+location: 'Oakland, CA'
+range: 'July 2016 - September 2021'
+url: 'https://www.acuitybrands.com/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
