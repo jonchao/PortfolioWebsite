@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
+date: '2015-08-01'
+title: 'UX Designer'
 company: 'DGLogik'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+location: 'Oakland, CA'
+range: 'August 2015 - July 2016'
+url: 'https://www.dglogik.com/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

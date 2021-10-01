@@ -1,10 +1,10 @@
 ---
-date: '2021-09-31'
-title: 'UX UI Design Manager'
+date: '2018-05-14'
+title: 'Engineer'
 company: 'Distech Controls'
-location: 'Oakland, CA'
-range: 'September 2021 - Present'
-url: 'https://www.distech-controls.com/'
+location: 'Boston, MA'
+range: 'May 2018 - Present'
+url: 'https://www.upstatement.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
