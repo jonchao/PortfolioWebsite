@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Jon Chao',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      'Jon Chao is a UX/UI designer specializing in designing exceptional websites and applications, that provide clarity, empowerment, and enjoyment.',
     siteUrl: 'https://jonchaodesign.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',

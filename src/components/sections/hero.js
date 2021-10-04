@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I design things for everyday people.</h3>;
   const four = (
     <p>
-      I'm a UX/UI designer based in Oakland, CA specializing in designing exceptional websites, applications, and everything in between.
+      I'm a UX/UI designer based in Oakland, CA specializing in designing exceptional websites and applications that provide clarity, empowerment, and enjoyment.
     </p>
   );
   const five = (
